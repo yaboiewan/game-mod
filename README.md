@@ -1,9 +1,9 @@
 *IDEA 135: Games at Work*
 # Sketch 2:  Game Modification
 
-![Candyland Box](images/boxthumb.jpg)
-
 **Rewrite the rules of the board game "Candy Land."**
+
+![Candyland Box](images/boxthumb.jpg)
 
 <https://idea135.github.io/game-mod/>
 
