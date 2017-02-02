@@ -28,7 +28,9 @@ Take note of the way your friends interact with one another while they play the 
 If you’re stumped about where to start, try playing "Candy Land" after changing one significant word in the the "Object" or "Gameplay” sections of the official rules. 
 Or, you can look up the rules of a card game (e.g. poker, blackjack) or another board game (e.g. Chess, Go, Monopoly) and imagine how the rules of that game might be applied to the contents of the Candy Land box. Or, just mess around: use box contents for unstructured free play.
 
+- Candy Land board and game pieces are available in the game play room (Avery 337). You may borrow  a board, but please leave at least one complete set in the game room at all times.
+
 ## Additional Resources
 - [Official Candy Land Rules](http://www.hasbro.com/common/instruct/Candy_Land__(2004).pdf)
 - [Mathematical analysis of Candyland](http://datagenetics.com/blog/december12011/index.html)
-- Candy Land board and game pieces are available in the game play room (Avery 337). You may borrow  a board, but please leave at least one complete set in the game room at all times.
+
