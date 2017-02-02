@@ -14,9 +14,9 @@ Take note of the way your friends interact with one another while they play the 
 
 ## Rules
 
-You are limited to using the objects found in a Candy Land board game set (game board, cards, plastic player figurines). You may not physically alter the board or game pieces. You may not add additional physical elements (timers, dice, etc). 
-Your game should be playable (start to finish) in under 10 minutes.
-Give your game a new name and specify its recommended age level (e.g. 3+, 10+, 18+, 40+, 9-99, etc.)
+1. You are limited to using the objects found in a Candy Land board game set (game board, cards, plastic player figurines). You may not physically alter the board or game pieces. You may *not* add additional physical elements (timers, dice, etc). 
+2. Your game should be playable (start to finish) in under 10 minutes.
+3. Give your game a new name and specify its recommended age level (e.g. 3+, 10+, 18+, 40+, 9-99, etc.)
 
 ## Learning Objectives
 - Learn to clearly articulate game rules in writing 
